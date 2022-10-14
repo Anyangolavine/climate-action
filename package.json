@@ -1,0 +1,22 @@
+{
+  "name": "climate-action",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages-d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anyangolavine/climate-action.git"
+  },
+  "author": "Lavine",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anyangolavine/climate-action/issues"
+  },
+  "homepage": "https://github.com/Anyangolavine/climate-action#readme",
+  "dependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
